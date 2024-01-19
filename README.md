@@ -1,2 +1,2 @@
-# Studu-schedule-planner
+# Study-schedule-planner
 A study schedule planner using Genative Ai
